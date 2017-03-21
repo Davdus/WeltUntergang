@@ -28,6 +28,10 @@ img{
     margin: auto;
 }
 
+.half_size{
+    width: 45%;
+}
+
 article{
     text-align: left;
     border: dashed lightgrey;
