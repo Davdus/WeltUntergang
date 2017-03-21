@@ -1,0 +1,102 @@
+.clear {
+    float: none;
+    clear: both;
+}
+
+body{
+    background: lightgrey;
+    font-family: "Courier", "Prestige Elite Std", "Times New Roman", sans-serif;
+    font-size: x-large;
+    text-align: center;
+}
+
+a{
+    font-family: "Prestige Elite Std", "Times New Roman", sans-serif;
+}
+
+p{
+    font-size: 16px;
+}
+
+h1{
+    padding: 5%;
+    margin: auto;
+}
+
+img{
+    width: 90%;
+    margin: auto;
+}
+
+article{
+    text-align: left;
+    border: dashed lightgrey;
+
+}
+
+p.dialoglog{
+    margin: 0;
+    padding: 10px;
+    padding-top: 8px;
+}
+
+p.steamlog{
+    margin: 0;
+    padding: 10px;
+    padding-top: 8px;
+    background-color: #212121;
+    font-family: "Droid Sans Thai", "Tahoma", "Arial", "Courier", sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+
+}
+
+p.discordlog {
+    margin: 0;
+    padding: 10px;
+    padding-top: 8px;
+    background-color: #ffffff;
+    font-family: "Helvetica", "Courier", "Prestige Elite Std", "Times New Roman", sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.sheetStart{
+    background: snow;
+    width: 60%;
+    margin: auto;
+}
+
+.sheet{
+    background: snow;
+    width: 60%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 40px;
+}
+
+.visual
+{
+    width: 90%;
+    margin: auto;
+}
+
+.plot
+{
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.sheet_fadein{
+    background: snow;
+    width: auto;
+    margin: 400px 50%;
+    animation: button 5s ease forwards;
+}
+
+@keyframes button {
+    0%    { opacity: 0; }
+    75%    { opacity: 0; }
+    100%    { opacity: 1; }
+}
