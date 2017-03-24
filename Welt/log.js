@@ -5,6 +5,8 @@ $(document).ready(function(){
 });/**
  * Created by Davdus on 20.03.2017.
  */
+
+/**
 function onclickVariation(object){
     //generiere array von class button und log
     var buttons = document.getElementsByClassName("button");
@@ -25,3 +27,4 @@ function onclickVariation(object){
     else
         target = "none";
 }
+ */
