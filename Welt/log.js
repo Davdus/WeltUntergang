@@ -1,5 +1,4 @@
 $(document).ready(function(){
-
     $(".button").click(function(){
         $(".log").toggle();
     });
@@ -25,11 +24,4 @@ function onclickVariation(object){
         target = "block";
     else
         target = "none";
-}
-
-window.onload{
-    var link = document.createElement("link");
-    link.href = "../autist.png";
-    link.rel = "icon";
-    document.getElementsByTagName("head")[0].appendChild(link);
 }
