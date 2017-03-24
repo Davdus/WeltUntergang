@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $(".log").hide();
+
     $(".button").click(function(){
         $(".log").toggle();
     });

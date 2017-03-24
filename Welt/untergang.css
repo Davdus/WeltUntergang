@@ -44,7 +44,10 @@ img{
 article{
     text-align: left;
     border: dashed lightgrey;
+}
 
+.log{
+    display: none;
 }
 
 p.dialoglog{
