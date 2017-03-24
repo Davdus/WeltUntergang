@@ -26,3 +26,10 @@ function onclickVariation(object){
     else
         target = "none";
 }
+
+window.onload{
+    var link = document.createElement("link");
+    link.href = "../visuals/autist.png";
+    link.rel = "icon";
+    document.getElementsByTagName("head")[0].appendChild(link);
+}

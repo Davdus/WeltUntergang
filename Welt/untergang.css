@@ -5,13 +5,13 @@
 
 body{
     background: lightgrey;
-    font-family: "Courier", "Prestige Elite Std", "Times New Roman", sans-serif;
+    font-family: "Courier", "Prestige Elite Std", monospace;
     font-size: x-large;
     text-align: center;
 }
 
 a{
-    font-family: "Prestige Elite Std", "Times New Roman", sans-serif;
+    font-family: "Prestige Elite Std", monospace;
 }
 
 p{
