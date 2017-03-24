@@ -20,9 +20,10 @@ p{
 
 h6{
     font-weight: normal;
-    font-size: 14px;
+    font-size: 12px;
     margin: 0;
     padding: 0;
+    padding-left: 10px;
 }
 
 h1{
@@ -33,6 +34,7 @@ h1{
 img{
     width: 90%;
     margin: auto;
+    padding: 1%;
 }
 
 .half_size{
