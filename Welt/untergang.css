@@ -50,7 +50,7 @@ img{
 
 article{
     text-align: left;
-    border: dashed lightgrey;
+    border: none;
 }
 
 .log{
